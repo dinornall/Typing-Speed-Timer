@@ -1,0 +1,4 @@
+To-Do
+    - Store past typing speeds with the date
+    - Maybe find a way to find the daily average
+    - Choose whether you do quotes or random words?
